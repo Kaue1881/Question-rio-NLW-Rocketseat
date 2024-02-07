@@ -1,0 +1,47 @@
+NLW - 2024
+
+Construir Quiz: Primeira Trilha - Primeiro aprendizado
+Desafio no final do quiz - Projeto Clone
+
+HTML, CSS, JavaScript
+
+Trilha intermediario: ter contato com programação.
+Primeiro contato com react muito bom para front-end.
+
+Focar front: react.js
+
+Back-end: Node.js sistemas de ranking, votação em tempo real.
+
+React-native: Mobile, app de pré-delivery (Não finaliza transação)
+
+Trilha java. (Não entendi direito, vai envolver banco de dados)
+
+Trilha Python: Linguagem acessível e flexível, Criar um gerador de etiquetas logisticas, impresso id unico.
+
+Trilha C#: curte dotnet: Sistemas de leilão organizada para receber as regras do usuário.
+
+Focar em uma trilha, dica propria, devo fazer uma trilha de cada vez.
+
+
+
+
+Primeira trilha:  criação de objeto e manipulação de objetos,
+tags novas de html: template, dl e dt
+
+// explicação
+
+<h1>The dl, dd, and dt elements</h1>
+
+<p>These three elements are used to create a description list:</p>
+
+<dl>
+  <dt>Coffee</dt>
+  <dd>Black hot drink</dd>
+  <dt>Milk</dt>
+  <dd>White cold drink</dd>
+</dl>
+
+
+
+
+
